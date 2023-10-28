@@ -26,6 +26,3 @@ This is a basic book store application built with Spring Boot.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-MIT
